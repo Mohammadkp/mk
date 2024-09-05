@@ -1,0 +1,1 @@
+alert("Redirected to preview page ");
